@@ -7,14 +7,12 @@ It allows one device to stream its camera feed while another device views the li
 - Live camera streaming over LAN
 - Uses VidStream and threading
 
-## Installations
-`pip install pyaudio`
+## Installation
 `pip install vidstream`
 
 ## Requirements
 - Python 3.10
 - vidstream
-- pyaudio
 - Devices connected on the same network
 
 ## How to Run
